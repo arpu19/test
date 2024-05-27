@@ -1,0 +1,39 @@
+asd=["dadar","bandra","andheri","virar"]
+dsa=["kurla","sion","bhandup","nahur"]
+for s in asd:
+   for d in dsa:
+      print(s,d)
+
+
+
+# for i in range(1,6):
+#    for j in range(1,6):
+#     print(j)
+
+
+
+
+def table(num=4):
+   for i in range(1,11):
+      print(num*i)
+
+
+table(6)
+
+
+def testList(arg):
+   for i in arg:
+      print(i)
+
+
+myList = ["apple","Orange","Grapes"];
+testList(myList)
+
+
+
+
+
+
+
+#test_fun()
+    
