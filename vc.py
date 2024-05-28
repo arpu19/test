@@ -4,5 +4,6 @@ def vowelorconsonant(x):
     else:
         print("consonant")
 
-vowelorconsonant("A")
+
+vowelorconsonant("B")
   
